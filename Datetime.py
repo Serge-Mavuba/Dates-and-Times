@@ -96,3 +96,5 @@ for c in sentence:
     keyboard.release(c)
     delay = random.uniform(0,0.1)
     time.sleep(0.1)
+print()
+    
